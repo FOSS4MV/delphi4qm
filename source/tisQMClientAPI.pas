@@ -1,11 +1,11 @@
 unit tisQMClientAPI;
 {
- The Trident Delphi & Free Pascal wrapper for The QMClient C API is
+ The Delphi4QM Delphi and Free Pascal wrapper for The QMClient C API is
  distributed under a BSD style license.
 
  tisQMClientAPI.pas
- Trident Delphi & Free Pascal Wrapper for QMClient C API
- Copyright (c) 2006-2010, Trident Information Systems, Inc.
+ Delphi4QM - A Delphi and Free Pascal Wrapper for the QMClient C API
+ Copyright (c) 2006-2013, Trident Information Systems, Inc.
  All rights reserved.
 
  Redistribution and use in source and binary forms, with or without
@@ -32,7 +32,7 @@ unit tisQMClientAPI;
  SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 }
 
-// Version 2.0.4 / October 2010
+// Version 2.0.5 / March 2013
 //
 // This unit (tisQMClientAPI) is the base API wrapper for the QMClient
 // API as defined in qmclilib.dll (windows) and libqmclient.a (Linux/OSX/BSD).
