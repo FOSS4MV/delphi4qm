@@ -1,4 +1,4 @@
-The Delphi4QM Delphi & Free Pascal wrapper for The QMClient C API is
+The Delphi4QM Delphi & Free Pascal wrapper for the QMClient C API is
 distributed under a BSD style license.
 
 The following copyright, terms and conditions of the license are also found
