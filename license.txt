@@ -1,6 +1,3 @@
-
-*** This is a hotfix update to the license
-
 The Delphi4QM Delphi & Free Pascal wrapper for the QMClient C API is
 distributed under a BSD style license.
 
